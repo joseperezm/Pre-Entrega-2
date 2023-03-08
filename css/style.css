@@ -201,7 +201,7 @@ footer {
 }
 .texto-contacto {
     text-align: center;
-    padding: 20px 0px 40px 0px;
+    padding: 40px 0px 40px 0px;
 }
 .tabla-contacto {
     display: flex;
@@ -270,7 +270,7 @@ footer {
     margin-top: 30px;
 }
 .blogpost {
-    background-color: lightgray;
+    background-color: rgba(233, 231, 231, 0.755);
     border-radius: 10px;
     margin-bottom: 40px;
 }
