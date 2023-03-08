@@ -213,7 +213,7 @@ footer {
     flex-direction: row;
 }
 .celda-contacto {
-    width: 350px;
+    width: 600px;
     height: 50px;
     border: 1px solid red;
     border-radius: 10px;
@@ -228,6 +228,11 @@ footer {
     width: 30px;
     height: 30px;
     margin-right: 10px;
+}
+@media (max-width: 768px) {
+    .celda-contacto {
+        width: 350px;
+    }
 }
 .texto-celda {
     text-align: center;
